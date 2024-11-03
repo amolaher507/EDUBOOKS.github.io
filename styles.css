@@ -1,0 +1,6 @@
+body {
+    background-image: url('https://raw.githubusercontent.com/amolaher507/EDUBOOKS.github.io/main/EDUBOOKS%20BG.jpg');
+    background-size: cover; /* Ensures the image covers the entire background */
+    background-repeat: no-repeat; /* Prevents the image from repeating */
+    background-position: center; /* Centers the image */
+}
