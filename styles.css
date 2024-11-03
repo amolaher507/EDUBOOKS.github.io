@@ -1,4 +1,5 @@
 body {
+    background: linear-gradient(to bottom, #ffffff, #0000ff); /* Creates a gradient from white to blue */
     background-image: url('https://raw.githubusercontent.com/amolaher507/EDUBOOKS.github.io/main/EDUBOOKS%20BG.jpg');
     background-size: cover; /* Ensures the image covers the entire background */
     background-repeat: no-repeat; /* Prevents the image from repeating */
